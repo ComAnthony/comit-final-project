@@ -1,0 +1,7 @@
+
+spring:
+# Database settings
+  datasource:
+    url: jdbc:mysql://localhost:3306/myauthenticationdb
+    username: root
+    password: $onQuotE
